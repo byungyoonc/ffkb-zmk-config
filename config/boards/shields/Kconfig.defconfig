@@ -1,0 +1,6 @@
+if SHIELD_FFKB
+
+config ZMK_FFKB
+    default "ffkb"
+
+endif
